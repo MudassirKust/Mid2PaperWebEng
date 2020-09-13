@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\App_Data",
+    "\\App_Start",
+    "\\Controllers",
+    "\\Models",
+    "\\obj",
+    "\\Properties",
+    "\\Scripts"
+  ],
+  "SelectedNode": "\\Properties\\AssemblyInfo.cs",
+  "PreviewInSolutionExplorer": false
+}
